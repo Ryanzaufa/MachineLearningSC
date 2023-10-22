@@ -1,5 +1,5 @@
 # MachineLearningSC
-Repository for Machine Learning assignments from Startup Campus
+Repository for Machine Learning assignments from Startup Campus.
 In this repository i have 3 file ipynb from Google Colab about my Machine Learning and Deep Learning assignments
 
 #01
